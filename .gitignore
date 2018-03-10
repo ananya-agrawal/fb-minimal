@@ -1,0 +1,9 @@
+############
+## Windows
+############
+
+# Windows image file caches
+*.db 
+
+# Folder config file
+Desktop.ini
